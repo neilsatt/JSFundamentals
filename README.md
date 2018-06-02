@@ -1,4 +1,4 @@
-# JSFundamentals
+#JavaScript Fundamentals 
 
 **Arrays**
 
