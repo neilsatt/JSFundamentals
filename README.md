@@ -8,7 +8,7 @@
 * slice (extract elements based on index) - https://jsbin.com/fugezuq/edit?js,console
 * splice (add or remove items based on params) - https://jsbin.com/pajeyim/edit?js,console
 
-**Misc array stuff**
+**Loops**
 * Loop through an array - https://jsbin.com/piyakok/4/edit?js,console
 
 
