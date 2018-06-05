@@ -5,7 +5,7 @@
 * pop (remove last element) - https://jsbin.com/pecekuy/edit?js,console
 * unshift (adds new element to beginning) - https://jsbin.com/misunaf/edit?js,console
 * shift (remove first element) - https://jsbin.com/xopawex/edit?js,console
-<br/>
+
 **Misc array stuff**
 * Loop through an array - https://jsbin.com/piyakok/4/edit?js,console
 
