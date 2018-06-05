@@ -15,7 +15,13 @@
 **Objects**
 * Different ways to access items - https://jsbin.com/koyazaz/1/edit?js,console
 
-**String Methods**
+**Common String Methods**
+* indexOf (returns index of 1st occurance of a string) - https://jsbin.com/zaxoqoj/edit?js,console
+* lastIndexOf (returns index of last occurance of a string) - https://jsbin.com/finabiz/edit?js,console
+* substring and substr (extract characters from a string) - https://jsbin.com/nojasik/edit?js,console
+* split (split string into array of substrings) - https://jsbin.com/jofiqib/edit?js,console
+
+
 
 **ES6 Examples**
 * Filter
