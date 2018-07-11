@@ -11,12 +11,13 @@
 **Loops**
 * Loop through an array - https://jsbin.com/piyakok/4/edit?js,console
 
-
 **Objects**
-* Different ways to access items - https://jsbin.com/koyazaz/1/edit?js,console
+* Different ways to access items - https://jsbin.com/koyazaz/edit?js,console
 
-**String Methods**
+**Strings**
+* Loop through string - https://jsbin.com/roqapurasu/edit?js,console
+* slice and substr - https://jsbin.com/gocifuw/edit?js,console
 
-**ES6 Examples**
-* Filter
-* Map
+
+
+
