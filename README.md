@@ -15,12 +15,12 @@
 * Switch - https://jsbin.com/fiwenap/1/edit?js,console
 
 **Functions**
-* Function examples (Expression and Declaration) - https://jsbin.com/mokikuq/2/edit?js,console
+* Function examples (Expression and Declaration) - https://jsbin.com/mokikuq/edit?js,console
 * Closures - https://jsbin.com/wumaku/edit?js,console
 
 **Strings**
 * Loop through string - https://jsbin.com/roqapurasu/edit?js,console
-* substring, slice and substr - https://jsbin.com/nojasik/edit?js,console
+* substring, slice and substr (extract characters) - https://jsbin.com/nojasik/edit?js,console
 * indexOf (returns index of 1st occurance of a string) - https://jsbin.com/zaxoqoj/edit?js,console
 * lastIndexOf (returns index of last occurance of a string) - https://jsbin.com/finabiz/edit?js,console
 * split (split string into array of substrings) - https://jsbin.com/jofiqib/edit?js,console
