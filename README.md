@@ -11,16 +11,20 @@
 **Loops**
 * Loop through an array - https://jsbin.com/piyakok/4/edit?js,console
 
-**Objects**
-* Different ways to access items - https://jsbin.com/koyazaz/edit?js,console
+**Functions**
+* Function examples (Expression and Declaration) - https://jsbin.com/mokikuq/2/edit?js,console
 
 **Strings**
 * Loop through string - https://jsbin.com/roqapurasu/edit?js,console
-* slice and substr - https://jsbin.com/gocifuw/edit?js,console
+* substring, slice and substr - https://jsbin.com/nojasik/edit?js,console
 * indexOf (returns index of 1st occurance of a string) - https://jsbin.com/zaxoqoj/edit?js,console
 * lastIndexOf (returns index of last occurance of a string) - https://jsbin.com/finabiz/edit?js,console
-* substring and substr (extract characters from a string) - https://jsbin.com/nojasik/edit?js,console
 * split (split string into array of substrings) - https://jsbin.com/jofiqib/edit?js,console
+
+**Objects**
+* Different ways to access items - https://jsbin.com/koyazaz/edit?js,console
+
+
 
 
 
