@@ -11,6 +11,9 @@
 **Loops**
 * Loop through an array - https://jsbin.com/piyakok/4/edit?js,console
 
+**Conditional Statements**
+* Switch - https://jsbin.com/fiwenap/1/edit?js,console
+
 **Functions**
 * Function examples (Expression and Declaration) - https://jsbin.com/mokikuq/2/edit?js,console
 
