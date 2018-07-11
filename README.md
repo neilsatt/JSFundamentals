@@ -20,7 +20,8 @@
 
 **Strings**
 * Loop through string - https://jsbin.com/roqapurasu/edit?js,console
-* substring, slice and substr (extract characters) - https://jsbin.com/nojasik/edit?js,console
+* substring and substr (ways of extracking characters) - https://jsbin.com/nojasik/edit?js,console
+* slice 
 * indexOf (returns index of 1st occurance of a string) - https://jsbin.com/zaxoqoj/edit?js,console
 * lastIndexOf (returns index of last occurance of a string) - https://jsbin.com/finabiz/edit?js,console
 * split (split string into array of substrings) - https://jsbin.com/jofiqib/edit?js,console
@@ -28,6 +29,13 @@
 **Objects**
 * Creating and object with properties and a method - https://jsbin.com/hukisoh/edit?js,console
 * Different ways to access items - https://jsbin.com/koyazaz/edit?js,console
+
+**Events and Event Capturing**
+* Capture and Bubbling Phases - 
+
+
+**Algorithms/Test Questions**
+* Swap elements in an array - https://jsbin.com/qadaboq/edit?js,console
 
 
 
