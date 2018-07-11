@@ -26,6 +26,7 @@
 * split (split string into array of substrings) - https://jsbin.com/jofiqib/edit?js,console
 
 **Objects**
+* Creating and object with properties and a method - https://jsbin.com/hukisoh/edit?js,console
 * Different ways to access items - https://jsbin.com/koyazaz/edit?js,console
 
 
