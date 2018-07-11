@@ -16,6 +16,7 @@
 
 **Functions**
 * Function examples (Expression and Declaration) - https://jsbin.com/mokikuq/2/edit?js,console
+* Closures - https://jsbin.com/wumaku/edit?js,console
 
 **Strings**
 * Loop through string - https://jsbin.com/roqapurasu/edit?js,console
