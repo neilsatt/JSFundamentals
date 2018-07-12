@@ -31,11 +31,12 @@
 * Different ways to access items - https://jsbin.com/koyazaz/edit?js,console
 
 **Events and Event Capturing**
-* Capture and Bubbling Phases - 
+* Capture and Bubbling Phases - https://jsbin.com/wuhabax/edit?js,console
 
 
-**Algorithms/Test Questions**
+**Algorithms/Interview Questions**
 * Swap elements in an array - https://jsbin.com/qadaboq/edit?js,console
+* Fizzbuzz - https://jsbin.com/foxejab/1/edit?js,console
 
 
 
