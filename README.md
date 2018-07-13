@@ -17,11 +17,12 @@
 **Functions**
 * Function examples (Expression and Declaration) - https://jsbin.com/mokikuq/edit?js,console
 * Closures - https://jsbin.com/wumaku/edit?js,console
-* IIFE
+* IIFE - https://jsbin.com/behayel/edit?js,console
+* Prototypes - https://jsbin.com/yozivox/edit?js,console
 
 **Strings**
 * Loop through string - https://jsbin.com/roqapurasu/edit?js,console
-* substring and substr and slice (ways of extracking characters) - https://jsbin.com/nojasik/8/edit?js,console
+* substring and substr and slice (ways of extracking characters) - https://jsbin.com/nojasik/9/edit?js,console
 * indexOf (returns index of 1st occurance of a string) - https://jsbin.com/zaxoqoj/edit?js,console
 * lastIndexOf (returns index of last occurance of a string) - https://jsbin.com/finabiz/edit?js,console
 * split (split string into array of substrings) - https://jsbin.com/jofiqib/edit?js,console
