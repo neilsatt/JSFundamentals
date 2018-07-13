@@ -18,7 +18,6 @@
 * Function examples (Expression and Declaration) - https://jsbin.com/mokikuq/edit?js,console
 * Closures - https://jsbin.com/wumaku/edit?js,console
 * IIFE - https://jsbin.com/behayel/edit?js,console
-* Prototypes - https://jsbin.com/yozivox/edit?js,console
 
 **Strings**
 * Loop through string - https://jsbin.com/roqapurasu/edit?js,console
@@ -30,6 +29,7 @@
 **Objects**
 * Creating and object with properties and a method - https://jsbin.com/hukisoh/edit?js,console
 * Different ways to access items - https://jsbin.com/koyazaz/edit?js,console
+* Prototypes - https://jsbin.com/yozivox/edit?js,console
 
 **Events and Event Capturing**
 * Capture and Bubbling Phases - https://jsbin.com/wuhabax/edit?js,console
